@@ -27,7 +27,7 @@ export default function Home() {
             className="mx-auto rounded-full border-4 border-red-500 mb-6"
           />
           <h1 className="text-5xl font-bold text-white mb-4">
-            Hey, I'm Aarón Farías
+            Hey, Im Aaron Farias
           </h1>
           <p className="text-2xl text-red-300">
             UVAQ Student at Systems Engineering and Computer Security
@@ -98,7 +98,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12">
             <div>
               <p className="text-lg text-gray-700 mb-6">
-                What's up? I'm studying Systems Engineering and Computer Security at UVAQ. 
+                Whats up? Im studying Systems Engineering and Computer Security at UVAQ. 
                 My hobbies are playing video games, watching movies, learning about history, and practicing martial arts.
               </p>
               <p className="text-lg text-gray-700 mb-6">
